@@ -1,0 +1,18 @@
+.big-div{
+    width: auto;
+    height: 100vh;
+}
+.hover:focus{
+    outline: none;
+}
+.card{
+    border-radius: 0%;
+    box-shadow: 0px 0px 6px rgba(128, 128, 128, 0.316);
+}
+.opciones{
+    border-radius: 0%;
+    box-shadow: 0px 0px 6px rgba(128, 128, 128, 0.316);
+}
+.boton{
+    border-radius: none;
+}
